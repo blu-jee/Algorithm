@@ -29,4 +29,6 @@ https://www.acmicpc.net/workbook/view/1152
 1. 동전 (9084)
 
 (프로그래머스)
-1. 
+1. 구명보트
+
+
